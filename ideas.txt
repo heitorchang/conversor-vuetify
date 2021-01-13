@@ -1,2 +1,3 @@
 [  ] vue is a progressive framework, can use in existing sites
-[  ] 
+[  ] try two-way computed getters and setters
+[  ]
